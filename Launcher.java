@@ -1,4 +1,4 @@
-//Contains main... run me to launch the game!
+//Contains main
 public class Launcher{
     
     //Initializes and launches the game
