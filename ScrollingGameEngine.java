@@ -5,18 +5,6 @@ import java.util.*;
 //Abstract class which handles the fundamental properties and actions
 //for a Scrolling game.
 
-
-//************************************************************************************
-//*                                                                                  *
-//*                                                                                  *
-//*                    YOU ARE NOT ALLOWED TO MODIFY THIS CLASS                      *
-//*         (though you'll need to read, trace, and use the methods in it)           *
-//*                                                                                  *
-//*                                                                                  *
-//************************************************************************************
-
-
-
 public abstract class ScrollingGameEngine {
     
     
