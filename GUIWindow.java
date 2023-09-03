@@ -12,17 +12,6 @@ import java.net.URL;
 //Also has the code to capture key presses/mouse clicks by the player
 //Which ultimately are retrieved and reacted to by Abstract/Basic/CreativeGame classes
 
-
-//************************************************************************************
-//*                                                                                  *
-//*                                                                                  *
-//*                    YOU ARE NOT ALLOWED TO MODIFY THIS CLASS                      *
-//*           YOU ALSO DON'T NEED TO READ/TRACE/CALL ANY METHODS IN HERE             *
-//*         (But feel free to take a look if you're feeling extra curious!)          *
-//*                                                                                  *
-//*                                                                                  *
-//************************************************************************************
-
 public class GUIWindow extends JComponent implements KeyListener, MouseListener{
     
     
